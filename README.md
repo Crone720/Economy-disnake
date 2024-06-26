@@ -10,3 +10,5 @@ Beta bot
   5. /award - управление монетами
   6. /transfer - перевести монеты
   7. /coinflip | /dice - Игры
+
+# DONT USE
